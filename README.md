@@ -83,7 +83,3 @@ Enter the FPS to run the animation: 15
 ## License
 
 This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for more details.
-
----
-
-This `README.md` should provide clear, professional documentation for your `Main.py` script. If you need further adjustments, feel free to let me know!
